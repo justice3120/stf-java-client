@@ -5,7 +5,7 @@
   <artifactId>swagger-java-client</artifactId>
   <packaging>jar</packaging>
   <name>swagger-java-client</name>
-  <version>1.0.0</version>
+  <version>1.0.1</version>
 
   <prerequisites>
     <maven>2.2.0</maven>
@@ -213,11 +213,10 @@
     <jodatime-version>2.3</jodatime-version>
     <maven-plugin-version>1.0.0</maven-plugin-version>
     <junit-version>4.8.1</junit-version>
-    <github.global.host>https://github.dena.jp/api/v3/</github.global.host>
-    <github.global.userName>masayoshi-sakamoto</github.global.userName>
-    <github.global.password>Justice3118</github.global.password>
+    <github.global.host>api.github.com</github.global.host>
+    <github.global.userName>justice3120</github.global.userName>
+    <github.global.password>Sakamoto3118</github.global.password>
     <github.global.repositoryName>stf-java-client</github.global.repositoryName>
-    <github.global.repositoryOwner>masayoshi-sakamoto</github.global.repositoryOwner>
-
+    <github.global.repositoryOwner>justice3120</github.global.repositoryOwner>
   </properties>
 </project>
