@@ -215,7 +215,7 @@
     <junit-version>4.8.1</junit-version>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <github.global.server>github</github.global.server>
-    <github.global.repositoryName>site-maven-plugin-test</github.global.repositoryName>
+    <github.global.repositoryName>stf-java-client</github.global.repositoryName>
     <github.global.repositoryOwner>justice3120</github.global.repositoryOwner>
   </properties>
 </project>
