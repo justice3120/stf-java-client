@@ -48,6 +48,9 @@ public class DeviceListResponseDevices   {
   @JsonProperty("abi")
   public String abi;
 
+  @JsonProperty("battery")
+  public Battery battery;
+
   @Override
   public boolean equals(Object o) {
     if (this == o) {
